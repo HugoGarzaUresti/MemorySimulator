@@ -1,0 +1,12 @@
+P 32 2             
+P 48 3             
+P 63 4
+A 1 4 0
+A 3 2 0
+A 7 3 0            
+L 3                   
+P 80 5             
+P 1744 140
+F
+C Hola prueba de texto
+E 

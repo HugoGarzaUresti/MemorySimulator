@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1623202810 source:c:\users\rober\documents\7 semestre\sistemas operativos\sofinal\memorymanagment\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	"Parser.h"
+	"Insturctions.h"
+	<string>
+
+1623202810 c:\users\rober\documents\7 semestre\sistemas operativos\sofinal\memorymanagment\include\parser.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+
+1623202810 c:\users\rober\documents\7 semestre\sistemas operativos\sofinal\memorymanagment\include\insturctions.h
+	<math.h>
+	<unordered_map>
+
+1622855930 c:\users\rober\documents\7 semestre\sistemas operativos\sofinal\memorymanagment\include\swappages.h
+
+1622856092 c:\users\rober\documents\7 semestre\sistemas operativos\sofinal\memorymanagment\include\procpages.h
+	<iostream>
+
